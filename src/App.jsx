@@ -95,8 +95,8 @@ function App() {
           </p>
         </div>
         <div className="illustration">
-          {run && <img src="/el-circle.png" alt="" className="el-circle" />}
-          <img src="/construction.png" alt="" className="contsruction-img" />
+          {run && <img src="el-circle.png" alt="" className="el-circle" />}
+          <img src="construction.png" alt="" className="contsruction-img" />
         </div>
       </div>
     </>
